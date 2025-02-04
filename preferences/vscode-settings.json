@@ -1,0 +1,18 @@
+{
+  "files.autoSave": "onFocusChange",
+  "workbench.editor.enablePreview": false,
+  "workbench.colorTheme": "Panda Syntax",
+  "workbench.iconTheme": "material-icon-theme",
+  "security.workspace.trust.untrustedFiles": "open",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "editor.formatOnPaste": true
+}
