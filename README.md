@@ -1,7 +1,6 @@
 ### Hey there!! I'm Manuel :)
 
-- Currently studying interactive technologies in the UPV
-- Constantly learning about software engineering and it's branches
-- Interested on summer internships
+- Currently interning as a software engineer while studying Interactive Technologies at UPV
+- Passionate about music, time optimization, and building reusable, useful systems! 
 
-Feel free to reach me on LinkedIn 💡
+Feel free to connect with me on LinkedIn 💡
