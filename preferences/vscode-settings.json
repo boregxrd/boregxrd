@@ -1,18 +1,22 @@
 {
-  "files.autoSave": "onFocusChange",
-  "workbench.editor.enablePreview": false,
-  "workbench.colorTheme": "Panda Syntax",
-  "workbench.iconTheme": "material-icon-theme",
-  "security.workspace.trust.untrustedFiles": "open",
-  "[dart]": {
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true,
-    "editor.rulers": [
-      80
-    ],
-    "editor.selectionHighlight": false,
-    "editor.tabCompletion": "onlySnippets",
-    "editor.wordBasedSuggestions": "off"
-  },
-  "editor.formatOnPaste": true
+    "files.autoSave": "onFocusChange",
+
+    "workbench.colorTheme": "SynthWave '84", 
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.enablePreview": false,
+
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": true,
+    "editor.minimap.size": "fit",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.wordWrap": "on",
+
+    "security.workspace.trust.untrustedFiles": "open",
+
+    "importCost.smallPackageSize": 5000,
+
+    "remote.SSH.remotePlatform": {
+        "192.168.1.124": "linux",
+    },
 }
