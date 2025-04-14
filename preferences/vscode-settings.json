@@ -14,6 +14,9 @@
 
     "security.workspace.trust.untrustedFiles": "open",
 
+    "synthwave84.brightness": 0.3,
+    "synthwave84.disableGlow": true,
+
     "importCost.smallPackageSize": 5000,
 
     "remote.SSH.remotePlatform": {
